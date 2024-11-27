@@ -1,0 +1,8 @@
+useless_right\ now/
+
+vision_api/yolov8l.pt
+vision_api/yolov8x.pt
+vision_api/yolov8n.pt
+
+llm_api/client.py
+llm_api/.env
